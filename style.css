@@ -1,0 +1,16 @@
+
+
+
+body{
+    font-family: 'arvoregular',sans-serif;
+    background: rgb(3,67,75);
+background: linear-gradient(90deg, rgba(3,67,75,1) 13%, rgba(2,46,52,1) 84%);
+font-family: 'arvo', sans-serif;
+}
+
+img{
+    width: 200px;
+}
+#story{
+    background-color: #315466;
+}
